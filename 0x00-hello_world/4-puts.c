@@ -3,7 +3,6 @@
 /**
  * main - Entry point
  * Prints a line 
- *
  * Return:0
  */
 int main(void)
